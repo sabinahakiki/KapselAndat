@@ -10,7 +10,7 @@ Dengan membuat repository yang bertujuan untuk bisa latihan dasar Git & GitHub d
    git clone git@github.com:sabinahakiki/KapselAndat.git
 3. Masuk ke folder repository:
     cd KapselAndat
-4. Buat file baru (contohnya README.md) atau edit file yang ada.
+4. Buat file baru (contohnya README.md) 
 5. Tambahkan perubahan ke staging area:
     git add .
 6. Commit perubahan supaya tersimpan di versi Git:
