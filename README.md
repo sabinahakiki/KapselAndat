@@ -14,6 +14,6 @@ Dengan membuat repository yang bertujuan untuk bisa latihan dasar Git & GitHub d
 5. Tambahkan perubahan ke staging area:
     git add .
 6. Commit perubahan supaya tersimpan di versi Git:
-    git commit -m "update README.md"
+    git commit -m "message"
 7. Push ke GitHub supaya bisa diakses secara online:
     git push origin main
